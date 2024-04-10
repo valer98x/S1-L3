@@ -1,0 +1,6 @@
+E' stata creata una  rete con IP Network 192.168.1.0/24 (quindi classfull), nella quale sono presenti due switch, ognuno dei quali gestisce 3 PC.
+
+Attraverso l'opzione "desktop", riferita ad ogni PC, i PC hanno ricevuto (per convenzione) indirizzi IP statici e consecutivi, partendo dal successivo rispetto al Gateway.
+
+Successivamente, è stata effettuata la prova di una effettiva comunicazione tra i PC della rete tramite l'invio di un ping (attraverso il prompt dei comandi), rispettivamente da PC0 a PC1 e viceversa. La prova ha dato riscontro positivo, in quanto tutti i pacchetti inviati sono tornati indietro.
+ 
